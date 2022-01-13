@@ -8,11 +8,11 @@ Hello! I find CLI-type projects a lot of fun because of the simplicity. Made use
 
 ![alt text](https://github.com/MeteorMash101/Java-Jukebox/blob/main/snapshots/pics_1.png?raw=true)
 
-![alt text](https://github.com/MeteorMash101/Java-Jukebox/blob/main/snapshots/pics_1.png?raw=true)
+![alt text](https://github.com/MeteorMash101/Java-Jukebox/blob/main/snapshots/pics_2.png?raw=true)
 
-![alt text](https://github.com/MeteorMash101/Java-Jukebox/blob/main/snapshots/pics_1.png?raw=true)
+![alt text](https://github.com/MeteorMash101/Java-Jukebox/blob/main/snapshots/pics_3.png?raw=true)
 
-![alt text](https://github.com/MeteorMash101/Java-Jukebox/blob/main/snapshots/pics_1.png?raw=true)
+![alt text](https://github.com/MeteorMash101/Java-Jukebox/blob/main/snapshots/pics_4.png?raw=true)
 
 ## Motivation:
 I love music. Expect more projects related to music stuff soon!
